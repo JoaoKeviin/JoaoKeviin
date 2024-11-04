@@ -1,7 +1,5 @@
 <div align="center">
   <h1 style="color: #bd93f9;">Olá, eu sou o João Kevin, tenho 19 anos</h1>
-  <img src="https://github-readme-stats.vercel.app/api?username=JoaoKeviin&theme=dracula&hide_border=false&include_all_commits=true" alt="Github Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoKeviin&hide=html&layout=compact&theme=dracula" alt="Github Languages" />
 </div>
 
 <div style="display: flex; flex-direction: column; align-items: center;">
